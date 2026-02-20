@@ -4,7 +4,7 @@
 
 This project presents a comprehensive sales performance analysis for **Maven Roasters**, a fictitious coffee shop operating across three locations in New York City.
 
-The dataset consists of detailed transaction records covering the period from **January 2023 through June 2023**. Each record includes:
+The dataset consists of **149,116 transaction records** covering the period from **January 2023 through June 2023**. Each record includes:
 
 - Transaction date  
 - Transaction timestamp  
