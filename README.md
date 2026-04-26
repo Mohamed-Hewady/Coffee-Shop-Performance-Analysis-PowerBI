@@ -61,3 +61,29 @@ This analysis aims to provide clear insights into:
 - Product profitability  
 
 Ultimately supporting data-driven decisions to improve sales performance and business strategy.
+
+---
+
+## 📁 Project Documentation Structure
+
+This project documentation is organized into the following main sections:
+
+1. [Project Planning & Management](01_Project_Planning_Management.md)
+2. [Literature Review](02_Literature_Review.md)
+3. [Requirements Gathering](03_Requirements_Gathering.md)
+4. [System Analysis & Design](04_System_Analysis_Design.md)
+
+---
+
+## 📂 Repository Contents
+
+```text
+Coffee-Shop-Sales-Performance-Analysis/
+│
+├── README.md
+├── 01_Project_Planning_Management.md
+├── 02_Literature_Review.md
+├── 03_Requirements_Gathering.md
+├── 04_System_Analysis_Design.md
+├── Dataset/
+└── PowerBI_File/
