@@ -28,18 +28,6 @@ The analysis covers the following areas:
 - Customer purchasing behavior based on transaction patterns
 - Key Performance Indicators (KPIs) for business monitoring
 
----
-
-## Out of Scope
-
-The following areas are not included in this project due to dataset limitations:
-
-- Customer demographic analysis
-- Customer loyalty or retention analysis
-- Profit margin analysis
-- Inventory forecasting
-- Cost of goods sold analysis
-- Predictive machine learning models
 
 ---
 
