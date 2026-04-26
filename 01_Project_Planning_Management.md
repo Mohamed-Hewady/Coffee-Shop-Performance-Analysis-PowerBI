@@ -124,4 +124,3 @@ The following KPIs are used to measure and evaluate the sales performance of Mav
 - Data Modeling
 - KPI Dashboard Design
 - GitHub
-  
