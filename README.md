@@ -72,18 +72,3 @@ This project documentation is organized into the following main sections:
 2. [Literature Review](02_Literature_Review.md)
 3. [Requirements Gathering](03_Requirements_Gathering.md)
 4. [System Analysis & Design](04_System_Analysis_Design.md)
-
----
-
-## 📂 Repository Contents
-
-```text
-Coffee-Shop-Sales-Performance-Analysis/
-│
-├── README.md
-├── 01_Project_Planning_Management.md
-├── 02_Literature_Review.md
-├── 03_Requirements_Gathering.md
-├── 04_System_Analysis_Design.md
-├── Dataset/
-└── PowerBI_File/
