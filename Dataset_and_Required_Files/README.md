@@ -1,22 +1,23 @@
-# Dataset and Required Files
+## Required Files
 
-This folder contains the dataset and required project files used for the Coffee Shop Sales Performance Analysis Power BI project.
+The required project files should include:
 
-## Contents
+| File | Description |
+|---|---|
+| Coffee shop sales dataset | Source dataset used for analysis |
+| Power BI dashboard file | Power BI report file containing dashboard pages and visuals |
+| Documentation PDF | Final PDF documentation file for the project |
+| Documentation Word file | Editable Word documentation file for the project, if required |
+| Supporting files | Any additional files used in the project |
 
-- Coffee shop sales dataset
-- Any required supporting files
-- Power BI source or reference files, if needed
+## Required Files
 
-## Dataset Description
+The required project files should include:
 
-The dataset used in this project represents Maven Roasters coffee shop sales transactions across three locations in New York City.
-
-It includes transaction-level sales records from January 2023 through June 2023 and is used to analyze:
-
-- Sales trends over time
-- Store location performance
-- Product performance
-- Busiest days of the week
-- Peak sales hours
-- Key sales performance indicators
+| File | Description |
+|---|---|
+| Coffee shop sales dataset | Source dataset used for analysis |
+| Power BI dashboard file | Power BI report file containing dashboard pages and visuals |
+| Documentation PDF | Final PDF documentation file for the project |
+| Documentation Word file | Editable Word documentation file for the project, if required |
+| Supporting files | Any additional files used in the project |
