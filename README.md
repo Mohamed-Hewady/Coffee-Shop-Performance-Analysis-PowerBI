@@ -84,6 +84,9 @@ Coffee-Shop-Sales-Performance-Analysis/
 ├── 02_Literature_Review.md
 ├── 03_Requirements_Gathering.md
 ├── 04_System_Analysis_Design.md
-└── Dataset/
+└── Dataset_and_Required_Files/
     ├── README.md
-    └── coffee_shop_sales.xlsx
+    ├── coffee_shop_sales.csv
+    ├── Coffee_Shop_Sales_Dashboard.pbix
+    ├── Coffee_Shop_Sales_Documentation.pdf
+    └── Coffee_Shop_Sales_Documentation.docx
